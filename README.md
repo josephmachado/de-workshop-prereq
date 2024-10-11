@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-1. Sign up for a Github account.
+1. [Sign up for a Github account](https://github.com/signup)
 
 ## Setup
 
